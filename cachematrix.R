@@ -3,7 +3,7 @@
 ##set the value of the matrix
 ##get the value of the matrix
 ##set the value of the inverse matrix
-g##et the value of the inverse matrix
+##get the value of the inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   inverseMatrix <- NULL
